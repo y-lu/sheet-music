@@ -16,14 +16,16 @@
 		d1~          | d2      e2     |  g,1~         |
 		g4  e  (g b) | d1~            |  d2      e2   | g,1~   |
 		g4  e  (g b) | d1~            |  d2      e2   | g,1~   |
-		g4  e  (g a) |
+		g4  e  (g a) |}
 		\alternative {
 		{
-		   b  r  g4. e8 |
+		b4  r      g'4.  e8 
+		(d4  b)    g     (a) 
+        bes (e)    bes   (e) 
+		bes (a)    g     (e) 
 		}
 		{
-		   g4
-		}
+		   g4 r  gis8 gis gis gis |
 		}
 		}
 	}
