@@ -25,7 +25,11 @@
 		bes (a)    g     (e) 
 		}
 		{
-		   g4 r  gis8 gis gis gis |
+		   g4     r       gis8 gis gis gis |
+		   a   a  a   a   ais  ais ais ais |
+		   d   d  dis dis e    e   fis fis |  g4  r   b,2     |
+		   a8  a  a   a   a    a   a   a   |  a a a a a a a a |
+           e   e  fis fis g    g   gis gis |  a4
 		}
 		}
 	}
